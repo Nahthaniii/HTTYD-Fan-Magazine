@@ -97,7 +97,7 @@ nav {
 .hero {
   position: relative;
   min-height: 100vh;
-  background: url("images/berk-bg.png") no-repeat center center/cover;
+  background: url("images/berk-bg.jpg") no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -304,3 +304,4 @@ footer {
   padding: 1rem;
   margin-top: 0;
 }
+
